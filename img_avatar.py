@@ -1,5 +1,0 @@
-#c:\Users\Admin\Desktop\img_avatar2.png
-import shutil
-
-shutil.copy(r"c:\Users\Admin\Desktop\img_avatar2.png",
-            r"c:\Users\Admin\Desktop\img_avatar2.png")
